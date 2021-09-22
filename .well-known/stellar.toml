@@ -1,1 +1,24 @@
+FEDERATION_SERVER="https://api.stellar.org/federation"
 
+ACCOUNTS=[ 
+"GBTEHBQQQ26PEWKAZB777QVYJ4B5G6AP4O4V6IN6UQQDVKMRN5DRGOLD", 
+"GAZURA2WACOA643PRCYBPLLJYAMQPLASXYSKRFCDPCKXUCKO2526GOLD", 
+"GBSG3ZAAYRTX22Q6ZUW74V3MZ6775HQXOEBDWSDXH264ABV5SSKIGOLD", 
+"GBUXB5VJWWPMXLGDC5HIKSDTPMT27EMS5LWRFYCMEYAXP2FMBSGFGOLD", 
+"GCHYQTPMBVSUB43MP2HYMFZM3JXR5WSU2KESCKDVYODY6ZHFXQEOGOLD", 
+"GDTUJ7D7STKB4XF3NY5OQFWL6Y44SGJET23KZFG7F5SDNGHRWUX4GOLD" 
+] 
+
+[DOCUMENTATION] 
+ORG_NAME="Stellar Gold Token" 
+ORG_URL="https://stellargold.top" 
+ORG_LOGO="https://stellargold.top/logo.png" 
+
+[[CURRENCIES]] 
+code="GOLD" 
+issuer="GBTEHBQQQ26PEWKAZB777QVYJ4B5G6AP4O4V6IN6UQQDVKMRN5DRGOLD" 
+name="Stellar Gold" 
+desc="Stellar Gold brings real physical gold into blockchain." 
+display_decimals=7 
+conditions="Every GOLD purchased will be back-up with every gram of real physical gold. The purity of gold is 99.9999% or equivalent with 24 carat." 
+image="https://stellargold.top/logo.png" 
