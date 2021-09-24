@@ -17,6 +17,7 @@ ORG_LOGO="https://stellargold.top/logo.png"
 [[CURRENCIES]] 
 code="GOLD" 
 issuer="GBTEHBQQQ26PEWKAZB777QVYJ4B5G6AP4O4V6IN6UQQDVKMRN5DRGOLD" 
+status="LIVE" 
 name="Stellar Gold" 
 desc="Stellar Gold brings real physical gold into Stellar's blockchain." 
 display_decimals=7 
