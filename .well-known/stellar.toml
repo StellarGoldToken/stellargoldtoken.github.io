@@ -11,8 +11,8 @@ ACCOUNTS=[
 
 [DOCUMENTATION] 
 ORG_NAME="Stellar Gold Token" 
-ORG_URL="https://stellargold.top" 
-ORG_LOGO="https://stellargold.top/logo.png" 
+ORG_URL="https://gold.toml.host" 
+ORG_LOGO="https://gold.toml.host/logo.png" 
 
 [[CURRENCIES]] 
 code="GOLD" 
@@ -22,4 +22,4 @@ name="Stellar Gold"
 desc="Stellar Gold brings real physical gold into Stellar's blockchain." 
 display_decimals=7 
 conditions="Every GOLD purchased will be back-up with every gram of real physical gold. The purity of gold is 99.9999% or equivalent with 24 Karat." 
-image="https://stellargold.top/logo/64x64.svg" 
+image="https://gold.toml.host/logo.png" 
